@@ -51,3 +51,5 @@ howpublished = \url{https://github.com/earth-collab/earth},
 note         = Public research repository
 
 
+License
+CC BY-NC-SA 4.0 – free to read, share, and build upon non-commercially with attribution and share-alike.
