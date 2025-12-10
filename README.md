@@ -43,11 +43,11 @@ danger/parkinsons_topological_death.md,Substantia nigra twist leakage → inevit
 danger/alzheimers_knot_accumulation.md,"Amyloid = failed (5,2) knot → inevitable at ~80 yr"
 
 # Citation
-  author       = EARTH Collaboration - Richard Vaught, Alexander T. Rayman
-  title        = Elastic Aether R(3) Twist Hydrodynamics – Complete Unification from Three Nuclear Inputs,
-  year         = 2025
-  month        = December
-  howpublished = \url{https://github.com/earth-collab/earth},
-  note         = Public research repository
+author       = EARTH Collaboration - Richard Vaught, Alexander T. Rayman
+title        = Elastic Aether R(3) Twist Hydrodynamics – Complete Unification from Three Nuclear Inputs,
+year         = 2025
+month        = December
+howpublished = \url{https://github.com/earth-collab/earth},
+note         = Public research repository
 
 
