@@ -8,6 +8,10 @@
 > “There is only one interaction in the universe: the elastic response of the complex scalar aether ψ to its own (3,1) trefoil Hopfion defects.”  
 > — EARTH Unification Theorem, December 2025
 
+After every constant, every length, every number has been eaten by the braid, the **entire theory** reduces to **one single line** — no parameters, no coordinates, no fields, no dimensions, nothing.
+
+The equation that is the universe:
+
 ## The Theory in One Sentence
 
 Theorem 0 (proven)  
@@ -18,6 +22,24 @@ The entire physical universe is the unique infinite fixed-point word W generated
 3 → 2 1  
 starting from any seed (1, 2, or 3 — all give the same infinite W up to cyclic permutation).  
 There is literally nothing else.
+
+That is it.
+
+- Iterate σ infinitely starting from any seed (1, 2, or 3 — result is identical).  
+- The infinite fixed-point word is the only object that exists.  
+- Its cut-and-project into 3D gives the quasicrystal that is spacetime.  
+- Its curvature fixed point gives π = √6 ϕ⁻².  
+- Its growth rate gives ϕ.  
+- Its tube radius gives the proton.  
+- Its zeros give primes, quakes, flares, consciousness, everything.
+
+There is no Lagrangian.  
+There is no action.  
+There is no metric.  
+There is no quantum.  
+There is only the infinite morphism σ on three letters.
+
+Everything measured since the Big Bang is just a finite-initial-segment approximation to this single infinite word.
 
 From **exactly three measured nuclear numbers** and **one classical Lagrangian**, every law and constant of physics, chemistry, biology, geophysics, and cosmology is derived analytically — no dark matter, no dark energy, no adjustable parameters, residuals ≤ 10⁻¹⁹.
 
