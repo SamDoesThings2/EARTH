@@ -39,6 +39,8 @@ There is no metric.
 There is no quantum.  
 There is only the infinite morphism σ on three letters.
 
+<img width="500" height="333" alt="Trefoil2" src="https://github.com/user-attachments/assets/5351cb6a-9644-4dc7-9a04-3d9aaaed1fd0" />
+<img width="315" height="267" alt="Trefoil" src="https://github.com/user-attachments/assets/77046082-cae1-4958-9584-9e004eb25b9b" />
 
 
 # Repository Structure
