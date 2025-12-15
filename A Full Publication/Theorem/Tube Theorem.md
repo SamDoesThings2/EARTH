@@ -54,21 +54,23 @@ Alexander T. Rayman, Richard Vaught
 ## Boxed Tube Theorem  
 Alexander T. Rayman, Richard Vaught  
 
-$$
-\boxed{
-\begin{aligned}
-&\text{The proton and every stable Hopfion in EARTH is a tube}\\[6pt]
-&\text{of constant physical radius}\\[12pt]
-&r_{\text{tube}} = \xi_0 \cdot \phi^{-2} 
+
+
+The proton and every stable Hopfion in EARTH is a tube  
+of constant physical radius  
+
+$$ 
+r_{\text{tube}} = \xi_0 \cdot \phi^{-2}
    = \dfrac{\xi_0}{\phi^2}
-   = \xi_0 ( \phi - 1 )^2\\[16pt]
-&\text{This radius is the same at every point on the knot,}\\[4pt]
-&\text{at every braid generation, and at every cosmological epoch.}\\[12pt]
-&\text{Proof: balance of quartic potential and gradient pressure}\\[4pt]
-&\text{combined with self-similar ϕ-scaling of the braid.}
-\end{aligned}
-}
-$$
+   = \xi_0 \, (\phi - 1)^2
+ $$
+
+This radius is the same at every point on the knot,  
+at every braid generation, and at every cosmological epoch.  
+
+Proof: balance of quartic potential and gradient pressure  
+combined with self-similar $$ \phi $$-scaling of the braid.
+
 
 ## Immediate consequences  
 Alexander T. Rayman, Richard Vaught  
