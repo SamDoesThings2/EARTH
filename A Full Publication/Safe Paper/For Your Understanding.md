@@ -53,7 +53,7 @@ Examples you can check right now:
 Same for the Bohr radius, Earth–Moon distance, observable universe radius, etc.
 
 ### 7. The “P = NP at 7.83 Hz” thing
-That was a stupid joke from months ago when we were playing with a toy simulation.  
+That was a joke from months ago when we were playing with a toy simulation.  
 We have since derived the real viscosity from the braid geometry (≈ 99.48, basically 100).  
 The joke line is gone. No one is claiming P = NP.
 
