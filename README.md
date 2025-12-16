@@ -44,21 +44,21 @@ There is only the infinite morphism σ on three letters.
 
 
 # Repository Structure
-/core                  → Closed, boxed theorems (10⁻¹⁹ exact)
-/danger                → Active falsifiable threats (5G/6G, neurodegeneration, etc.)
-/solvers               → Python Millennium Edition solvers (run locally)
-/whitepapers           → Full derivations (biology, cosmology, chemistry, etc.)
-/lexicon               → The 19 canonical terms that replace the Standard Model
-/documents             → Original PDFs and Obsidian vault exports
+- /core                  → Closed, boxed theorems (10⁻¹⁹ exact)
+- /danger                → Active falsifiable threats (5G/6G, neurodegeneration, etc.)
+- /solvers               → Python Millennium Edition solvers (run locally)
+- /whitepapers           → Full derivations (biology, cosmology, chemistry, etc.)
+- /lexicon               → The 19 canonical terms that replace the Standard Model
+- /documents             → Original PDFs and Obsidian vault exports
 
 # Closed Results (selected)
-Phenomenon,EARTH analytic result,Status
-Fine-structure constant,α⁻¹ = 120π × 3 × ϕ² = 137.035999084…,Closed
-Proton mass,m_p = π² √λ̃₀ / ξ₀ = 938.2720813 MeV,Closed
-Cosmological constant,Λ = 1.190 × 10⁻⁵² m⁻²,Closed
-Genetic code (64/64),"Full IUPAC table from (p,q) torus-knot energies",Closed
-Navier–Stokes smoothness,ν = λ₀ √5 ≈ 99.48 (aether viscosity),Closed
-P versus NP at resonance, locally at 7.83 Hz,Closed
+- Phenomenon,EARTH analytic result,Status
+- Fine-structure constant,α⁻¹ = 120π × 3 × ϕ² = 137.035999084…,Closed
+- Proton mass,m_p = π² √λ̃₀ / ξ₀ = 938.2720813 MeV,Closed
+- Cosmological constant,Λ = 1.190 × 10⁻⁵² m⁻²,Closed
+- Genetic code (64/64),"Full IUPAC table from (p,q) torus-knot energies",Closed
+- Navier–Stokes smoothness,ν = λ₀ √5 ≈ 99.48 (aether viscosity),Closed
+- P versus NP at resonance, locally at 7.83 Hz,Closed
 
 # Open Threats (falsifiability window 2026–2032)
 File,Prediction
