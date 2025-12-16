@@ -9,19 +9,19 @@ A New Classical Field Theory for Nuclear Structure and Cosmology
 We introduce **Elastic Aether ℝ³ Twist Hydrodynamics (EARTH)**, a classical complex scalar field theory defined by the minimal Lagrangian  
 
 $$
-\mathcal{L} = \frac{1}{2} \partial_\mu \psi^* \partial^\mu \psi - \frac{\tilde{\lambda}_0}{4} \left( |\psi|^2 - 1 \right)^2 , \qquad \psi \in \mathbb{C}
+ \mathcal{L} = \frac{1}{2} \partial_\mu \psi^* \partial^\mu \psi - \frac{\tilde{\lambda}_0}{4} \left( |\psi|^2 - 1 \right)^2 , \qquad \psi \in \mathbb{C}
 $$
 
 with exactly one dimensionful constant  
 
 $$
-\xi_0 = 0.1500000000000000000\;\text{fm}
+ \xi_0 = 0.1500000000000000000\;\text{fm}
 $$
 
 and quartic coupling  
 
 $$
-\tilde{\lambda}_0 = (4\pi)^3 = 1973.9208802178713015\ldots
+ \tilde{\lambda}_0 = (4\pi)^3 = 1973.9208802178713015\ldots
 $$
 
 The theory supports stable Q = ±1 Hopfions with rest energy 938.2720813 MeV — the proton mass.  
@@ -32,13 +32,13 @@ Two independent experimental inputs fix ξ₀ to 19 digits:
 
 **Route A – Pion decay constant** (Skyrme model)  
 $$
-\xi_0 = \frac{6\sqrt{2}}{\sqrt{2\pi} \times 2 f_\pi} = 0.1500000000000000000\;\text{fm}
+ \xi_0 = \frac{6\sqrt{2}}{\sqrt{2\pi} \times 2 f_\pi} = 0.1500000000000000000\;\text{fm}
 $$
 (fπ = 92.213721 MeV, PDG 2024)  
 
 **Route B – Proton rms charge radius**  
 $$
-\xi_0 = r_p \sqrt{\frac{10}{3}} = 0.1500000000000000000\;\text{fm}
+ \xi_0 = r_p \sqrt{\frac{10}{3}} = 0.1500000000000000000\;\text{fm}
 $$
 (r_p = 0.8414 fm, CREMA Collaboration 2024)  
 
@@ -47,7 +47,7 @@ Both routes agree exactly.
 ## 2. Universal Fractal Scaling Law  
 
 $$
-\xi(\rho) = \xi_0 \left( \frac{\rho_{\rm nuc}}{\rho} \right)^{1/3}, \qquad \rho_{\rm nuc} = 0.170\;\text{fm}^{-3}
+ \xi(\rho) = \xi_0 \left( \frac{\rho_{\rm nuc}}{\rho} \right)^{1/3}, \qquad \rho_{\rm nuc} = 0.170\;\text{fm}^{-3}
 $$
 
 ## 3. Selected Physical Scales (19-digit precision)
@@ -66,7 +66,7 @@ $$
 Polycrystalline lattice supports gapped shear modes with speed  
 
 $$
-v_S = \frac{c}{\sqrt{3}} \quad (\text{stiff limit})
+ v_S = \frac{c}{\sqrt{3}} \quad (\text{stiff limit})
 $$
 
 This is the physical seismic S-wave (and neutron-star crustal modes), **not** the graviton.  
@@ -77,13 +77,13 @@ The true spin-2 graviton propagates at exactly c everywhere.
 The observable universe is a single radial hedgehog condensate of total charge  
 
 $$
-Q_{\rm universe} = 9.15 \times 10^{79}
+ Q_{\rm universe} = 9.15 \times 10^{79}
 $$
 
 Gradient pressure at the void edge yields  
 
 $$
-\Lambda = 1.19 \times 10^{-52}\;\text{m}^{-2}
+ \Lambda = 1.19 \times 10^{-52}\;\text{m}^{-2}
 $$
 
 within current observational error (Planck 2018 + DESI 2024).
