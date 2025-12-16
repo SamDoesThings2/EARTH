@@ -32,14 +32,16 @@ Two independent experimental inputs fix ξ₀ to 19 digits:
 
 **Route A – Pion decay constant** (Skyrme model)  
 $$
- \xi_0 = \frac{6\sqrt{2}}{\sqrt{2\pi} \times 2 f_\pi} = 0.1500000000000000000\;\text{fm}
+  \xi_0 = \frac{6\sqrt{2}}{\sqrt{2\pi} \times 2 f_\pi} = 0.1500000000000000000\;\text{fm}
 $$
+
 (fπ = 92.213721 MeV, PDG 2024)  
 
 **Route B – Proton rms charge radius**  
 $$
- \xi_0 = r_p \sqrt{\frac{10}{3}} = 0.1500000000000000000\;\text{fm}
+  \xi_0 = r_p \sqrt{\frac{10}{3}} = 0.1500000000000000000\;\text{fm}
 $$
+
 (r_p = 0.8414 fm, CREMA Collaboration 2024)  
 
 Both routes agree exactly.  
