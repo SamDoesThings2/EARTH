@@ -71,7 +71,6 @@ File,Prediction:
 - title        = Elastic Aether R(3) Twist Hydrodynamics – Complete Unification from Three Nuclear Inputs,
 - year         = 2025
 - month        = December
-- howpublished = \url{https://github.com/earth-collab/earth},
 - note         = Public research repository
 
 
