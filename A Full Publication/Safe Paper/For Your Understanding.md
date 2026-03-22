@@ -52,12 +52,7 @@ Examples you can check right now:
 - 34 / (1.68 × 10⁻⁵) ≈ ϕ¹⁸ exactly
 Same for the Bohr radius, Earth–Moon distance, observable universe radius, etc.
 
-### 7. The “P = NP at 7.83 Hz” thing
-That was a joke from months ago when we were playing with a toy simulation.  
-We have since derived the real viscosity from the braid geometry (≈ 99.48, basically 100).  
-The joke line is gone. No one is claiming P = NP.
-
-### 8. Bottom line
+### 7. Bottom line
 We are not saying the universe is magic knots.
 We are saying:
 1. Take ordinary elastic jelly.  
